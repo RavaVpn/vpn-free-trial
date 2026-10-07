@@ -12,7 +12,7 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 | 免费试用 / 订阅入口 | https://tryrava.com/go?s=github-trial |
 | 完整试用指南（图表版） | https://tryrava.com/vpn-free-trial |
 | 官方网站 | https://tryrava.com |
-| 官方地址发布页（防失联） | https://github.com/leebnbppp2/rava-links |
+| 官方地址发布页（防失联） | https://github.com/RavaVpn/rava-links |
 
 ## 3 天怎么安排
 
@@ -97,6 +97,6 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 - [VPN 免费试用完整指南](https://tryrava.com/vpn-free-trial)
 - [中国能用的 VPN 怎么选](https://tryrava.com/best-vpn-for-china)
 - [VPN 连上了打不开网页怎么办](https://tryrava.com/vpn-keeps-dropping)
-- [Rava VPN 官方介绍](https://github.com/leebnbppp2/rava-vpn)
+- [Rava VPN 官方介绍](https://github.com/RavaVpn/rava-vpn)
 - [VPN 试用怎么领、3 天测哪几件事](https://ravavpn.github.io/vpn-shiyong/)
 - [VPN 哪个好用：5 个判断标准](https://ravavpn.github.io/vpn-nage-haoyong/)
