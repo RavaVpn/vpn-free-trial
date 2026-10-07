@@ -90,7 +90,7 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 | 大部分场景都不行 | 直接停用，不花钱 |
 | 付费后才发现不合适 | 付费后一周内可退 |
 
-更细的三天测试表，见 [VPN 试用：免费试用怎么领，3 天里测哪几件事](https://leebnbppp2.github.io/vpn-shiyong/)。
+更细的三天测试表，见 [VPN 试用：免费试用怎么领，3 天里测哪几件事](https://ravavpn.github.io/vpn-shiyong/)。
 
 ## 相关页面
 
@@ -98,5 +98,5 @@ Rava VPN 给新用户 **3 天免费试用**，试用期不花钱，不合适直�
 - [中国能用的 VPN 怎么选](https://tryrava.com/best-vpn-for-china)
 - [VPN 连上了打不开网页怎么办](https://tryrava.com/vpn-keeps-dropping)
 - [Rava VPN 官方介绍](https://github.com/leebnbppp2/rava-vpn)
-- [VPN 试用怎么领、3 天测哪几件事](https://leebnbppp2.github.io/vpn-shiyong/)
-- [VPN 哪个好用：5 个判断标准](https://leebnbppp2.github.io/vpn-nage-haoyong/)
+- [VPN 试用怎么领、3 天测哪几件事](https://ravavpn.github.io/vpn-shiyong/)
+- [VPN 哪个好用：5 个判断标准](https://ravavpn.github.io/vpn-nage-haoyong/)
